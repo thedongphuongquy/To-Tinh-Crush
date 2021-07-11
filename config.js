@@ -14,7 +14,7 @@ const CONFIG = {
     question:'Tại sao lại yêu anh vậy?',
     btnReply: 'Send',
     reply: 'Yêu thì yêu mà không yêu thì yêu ♥♥♥',
-    mess: 'Anh biết mà 🥰. Anh cũng yêu em nhiều nhiều 😘😘',
+    mess: 'Anh biết mà 🥰. Anh cũng yêu em nhiều nhiều ♥♥',
     messDesc: 'Anh xin lỗi nhaaaaa.',
     btnAccept: 'Okiiiii lun ♥',
     messLink: 'https://www.facebook.com/profile.php?id=100026157909101' //link mess của các bạn. VD: https://m.me/nam.nodemy
